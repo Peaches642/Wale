@@ -59,22 +59,38 @@ div.content {
 	
 }
 
+<<<<<<< HEAD
 body.delfin {
 	background: url(bilder/BACKGROUND.jpeg) no-repeat center center fixed;
 }
 
 h1 {
 	font-family: serif;
+
+body.blau {
+	background-color: #5282AE;
 }
+
 
 h3 {
 	font-style:italic; ;
 }
 
+
 div.headerDelfin {
 	border: 4px solid black;
 	background-color: #D8E6EF ;
 	height: 100px;
+
+h4{
+	font-style:italic; ;
+}
+
+div.headerBlau {
+	border: 2px solid black;
+	background-color: #FFE3A3;
+	height: 150px;
+
 	text-align: center;
 	margin-left: 120px;
 	margin-right: 120px;
@@ -83,9 +99,11 @@ div.headerDelfin {
 	
 }
 
+
 div.menu {
 	border: 4px solid black;
 	background-color: #FFB0B0;
+
 	height: auto;
 	text-align: center;
 	margin-left: 120px;
@@ -103,6 +121,7 @@ li {
 	display: inline;
 }
 
+
 div.contentDelfin {
 	background-color: #C3E0E1;
 	border: 4px solid black;
@@ -112,4 +131,22 @@ div.contentDelfin {
 	padding-left: 100px;
 	padding-right: 100px;
 }
+
+div.contentBlau {
+	background-color: white;
+	border: 2px solid black;
+	height: 1000px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-image: url(g099.jpg) ;
+	background-repeat:no-repeat;
+	background-position: 50px;	
+}
+
+
+
+
+
 
