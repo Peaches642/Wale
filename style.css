@@ -1,6 +1,13 @@
-body {
-	background: url(UNDERWATER.jpg) no-repeat center center fixed;
+
+html { 
+  background: url(bilder/UNDERWATER.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+
+
 
 h1 {
 	font-family: fantasy;
@@ -15,6 +22,7 @@ div.header {
 	border: 2px solid black;
 	background-image: url(Titel_Bild_.jpg);
 	height: 100px;
+
 	text-align: center;
 	margin-left: 120px;
 	margin-right: 120px;
@@ -55,6 +63,7 @@ div.content {
 }
 div.content2 {
 	background-color: #48C3DA;
+
 	border: 2px solid black;
 	height: 500px;
 	margin-left: 120px;
@@ -63,6 +72,95 @@ div.content2 {
 	padding-right: 50px;
 	
 }
+
+body.delfin {
+	background: url(bilder/BACKGROUND.jpeg) no-repeat center center fixed;
+}
+
+h1 {
+	font-family: serif;
+
+body.blau {
+	background-color: #5282AE;
+}
+
+
+h3 {
+	font-style:italic; ;
+}
+
+
+div.headerDelfin {
+	border: 4px solid black;
+	background-color: #D8E6EF ;
+	height: 100px;
+
+h4{
+	font-style:italic; ;
+}
+
+div.headerBlau {
+	border: 2px solid black;
+	background-color: #FFE3A3;
+	height: 150px;
+
+	text-align: center;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+
+
+div.menu {
+	border: 4px solid black;
+	background-color: #FFB0B0;
+
+	height: auto;
+	text-align: center;
+	margin-left: 120px;
+	margin-right: 120px;
+	
+}
+
+ul {
+	text-decoration: none;
+	list-style: none;
+
+}
+
+li {
+	display: inline;
+}
+
+
+div.contentDelfin {
+	background-color: #C3E0E1;
+	border: 4px solid black;
+	height: 800px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+div.contentBlau {
+	background-color: white;
+	border: 2px solid black;
+	height: 1000px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-image: url(g099.jpg) ;
+	background-repeat:no-repeat;
+	background-position: 50px;	
+}
+
+
+
+
 
 
 div.Pottwal {
