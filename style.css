@@ -1,9 +1,10 @@
 body {
-	background-image: url(BACKGROUND.jpeg);
+	background: url(UNDERWATER.jpg) no-repeat center center fixed;
 }
 
 h1 {
 	font-family: fantasy;
+	
 }
 
 h3 {
@@ -12,8 +13,8 @@ h3 {
 
 div.header {
 	border: 2px solid black;
-	background-color: #FFE3A3;
-	height: 150px;
+	background-image: url(Titel_Bild_.jpg);
+	height: 100px;
 	text-align: center;
 	margin-left: 120px;
 	margin-right: 120px;
@@ -23,8 +24,8 @@ div.header {
 }
 
 div.menu {
-	border: 2px solid black;
-	background-color: #27A9C1;
+	border: 1px solid black;
+	background-color: #9AE1EE;
 	height: auto;
 	text-align: center;
 	margin-left: 120px;
@@ -43,14 +44,37 @@ li {
 }
 
 div.content {
-	background-color: white;
+	background-color: #48C3DA;
 	border: 2px solid black;
-	height: 1000px;
+	height: 500px;
 	margin-left: 120px;
 	margin-right: 120px;
 	padding-left: 50px;
 	padding-right: 50px;
 	
+}
+div.content2 {
+	background-color: #48C3DA;
+	border: 2px solid black;
+	height: 500px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+
+
+div.Pottwal {
+	background-color: #AAEEFB ;
+	border: 2px solid black;
+	height: 500px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+
 }
 
 
