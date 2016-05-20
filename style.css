@@ -53,4 +53,67 @@ div.content {
 	
 }
 
+body.blau {
+	background-color: #5282AE;
+}
+
+h1 {
+	font-family: fantasy;
+}
+
+h3 {
+	font-style:italic; ;
+}
+h4{
+	font-style:italic; ;
+}
+
+div.headerBlau {
+	border: 2px solid black;
+	background-color: #FFE3A3;
+	height: 150px;
+	text-align: center;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+
+div.menuBlau {
+	border: 2px solid black;
+	background-color: #27A9C1;
+	height: auto;
+	text-align: center;
+	margin-left: 120px;
+	margin-right: 120px;
+	
+}
+
+ul {
+	text-decoration: none;
+	list-style: none;
+
+}
+
+li {
+	display: inline;
+}
+
+div.contentBlau {
+	background-color: white;
+	border: 2px solid black;
+	height: 1000px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-image: url(g099.jpg) ;
+	background-repeat:no-repeat;
+	background-position: 50px;	
+}
+
+
+
+
 
