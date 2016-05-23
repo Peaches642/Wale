@@ -1,6 +1,6 @@
 
 html { 
-  background: url(bilder/UNDERWATER.jpg) no-repeat center center fixed; 
+  background: url(UNDERWATER.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -97,19 +97,6 @@ div.headerDelfin {
 
 h4{
 	font-style:italic; ;
-}
-
-div.headerBlau {
-	border: 2px solid black;
-	background-color: #FFE3A3;
-	height: 150px;
-
-	text-align: center;
-	margin-left: 120px;
-	margin-right: 120px;
-	padding-left: 50px;
-	padding-right: 50px;
-	
 }
 
 
