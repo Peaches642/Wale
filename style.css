@@ -14,7 +14,7 @@ h1 {
 	
 }
 
-h3 {
+h2 {
 	font-style:italic; ;
 }
 
@@ -78,19 +78,18 @@ body.delfin {
 }
 
 div.headerDelfin {
-	border: 4px solid black;
+	border: 2px solid black;
 	background-color: #D8E6EF ;
 	height: 100px;
 
-
+}
 div.contentDelfin {
-	background-color: #C3E0E1;
-	border: 4px solid black;
-	height: 800px;
+	background-color: #AAEEFB;
+	border: 2px solid black;
+	height: 575px;
 	margin-left: 120px;
 	margin-right: 120px;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding: 70px;
 }
 
 div.contentBlau {
@@ -115,5 +114,11 @@ div.Pottwal{
 	padding-left: 50px;
 	padding-right: 50px;
 	
+}
+
+img {
+	width: 280px;
+	float: right;
+	border: 1px solid black;
 }
 
