@@ -81,8 +81,13 @@ div.headerDelfin {
 	border: 2px solid black;
 	background-color: #D8E6EF ;
 	height: 100px;
+<<<<<<< HEAD
 
 }
+=======
+  }
+
+>>>>>>> 0355cb21de2dff6559dfd238538004c2d21f0ec3
 div.contentDelfin {
 	background-color: #AAEEFB;
 	border: 2px solid black;
@@ -93,16 +98,26 @@ div.contentDelfin {
 }
 
 div.contentBlau {
-	background-color: white;
+	background-color: #4793C4;
 	border: 2px solid black;
 	height: 1000px;
 	margin-left: 120px;
 	margin-right: 120px;
 	padding-left: 50px;
 	padding-right: 50px;
-	background-image: url(g099.jpg) ;
-	background-repeat:no-repeat;
-	background-position: 50px;	
+}
+
+div.bilder {
+	text-align: right;
+	margin-top: 500px;
+
+}
+
+img {
+	border: 2px solid black;
+
+
+
 }
 
 div.Pottwal{
