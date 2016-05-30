@@ -103,7 +103,7 @@ div.contentBlau {
 }
 
 div.bilder {
-	text-align: right;
+	text-align: center;
 	margin-top: 500px;
 
 }
@@ -131,4 +131,13 @@ img {
 	float: right;
 	border: 1px solid black;
 }
-
+div.contentFakten{
+	background-color: #9AE1EE;
+	border: 2px solid black;
+	height: 1000px;
+	margin-left: 120px;
+	margin-right: 120px;
+	padding-left: 50px;
+	padding-right: 50px;
+    margin-top: 20px;
+}
